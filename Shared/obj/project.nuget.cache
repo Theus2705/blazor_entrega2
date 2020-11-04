@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "A0hThKfoVCFe+X1Ir0BwdnTvOySvfLs4goBbgREI6Dt6Zkg5yKxYmcCg8jh2asStx40dpsqcdVdoe5ueGa5iEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TEIXAS\\Documents\\blazor-entrega-2-TXS-master\\Shared\\CadastroBlazor.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TEIXAS\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
